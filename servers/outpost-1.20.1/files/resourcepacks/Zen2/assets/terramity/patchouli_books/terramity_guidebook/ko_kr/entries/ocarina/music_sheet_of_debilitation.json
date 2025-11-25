@@ -1,0 +1,22 @@
+{
+  "name": "쇠약의 악보",
+  "icon": "terramity:music_sheet_of_debilitation",
+  "category": "terramity:ocarina",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+	  "title": "Music Sheet of Debilitation",
+	  "text": "쇠약의 악보가 30초 동안 주변 몹을 약화 상태로 둔화시킵니다.$(br2)이 시트는 사막의 피라미드에서 흔히 볼 수 있습니다.",
+	  "item": {
+		"item": "terramity:music_sheet_of_debilitation"
+	  }
+    },
+	{
+      "type": "patchouli:image",
+      "title": "Music Sheets",
+      "images": ["terramity:textures/screens/music_sheets.png"],
+      "border": true
+    }
+  ]
+}

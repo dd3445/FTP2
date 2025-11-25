@@ -1,0 +1,22 @@
+{
+  "name": "회춘의 악보",
+  "icon": "terramity:music_sheet_of_rejuvenation",
+  "category": "terramity:ocarina",
+  "sortnum": 13,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+	  "title": "Music Sheet of Rejuvenation",
+	  "text": "회춘의 악보가 30초 동안 재생 I을 부여합니다.$(br2)이 시트는 분홍색 요정에게서 드물게 떨어집니다.",
+	  "item": {
+		"item": "terramity:music_sheet_of_rejuvenation"
+	  }
+    },
+	{
+      "type": "patchouli:image",
+      "title": "Music Sheets",
+      "images": ["terramity:textures/screens/music_sheets.png"],
+      "border": true
+    }
+  ]
+}

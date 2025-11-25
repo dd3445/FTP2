@@ -1,0 +1,22 @@
+{
+  "name": "대양의 악보",
+  "icon": "terramity:music_sheet_of_oceanus",
+  "category": "terramity:ocarina",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+	  "title": "Music Sheet of Oceanus",
+	  "text": "오셔너스의 악보가 60초 동안 물의 호흡과 돌고래의 은총을 부여합니다.$(br2)이 시트는 난파선에서 흔히 볼 수 있습니다.",
+	  "item": {
+		"item": "terramity:music_sheet_of_oceanus"
+	  }
+    },
+	{
+      "type": "patchouli:image",
+      "title": "Music Sheets",
+      "images": ["terramity:textures/screens/music_sheets.png"],
+      "border": true
+    }
+  ]
+}

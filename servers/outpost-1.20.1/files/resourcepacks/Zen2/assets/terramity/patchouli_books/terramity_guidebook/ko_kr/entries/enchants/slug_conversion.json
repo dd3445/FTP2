@@ -1,0 +1,16 @@
+{
+  "name": "슬러그 변환",
+  "icon": "minecraft:enchanted_book",
+  "category": "terramity:enchants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "슬러그 변환은 테라미티가 추가한 마법부여입니다.$(br)$(br)이 마법부여는 산탄총의 사격이 탄환이 퍼지는 것이 아니라 더 큰 피해를 주는 단발 사격으로 바뀝니다.$(br)$(br)최대 레벨: 1$(br)$(br)좁은 펠릿과 호환되지 않음"
+    },
+	{
+      "type": "patchouli:image",
+      "images": ["terramity:textures/screens/guns.png"],
+      "border": true
+    }
+  ]
+}

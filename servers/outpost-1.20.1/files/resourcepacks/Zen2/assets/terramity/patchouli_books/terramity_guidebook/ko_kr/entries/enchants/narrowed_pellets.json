@@ -1,0 +1,16 @@
+{
+  "name": "좁은 펠렛",
+  "icon": "minecraft:enchanted_book",
+  "category": "terramity:enchants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "좁아진 펠렛은 테라미티가 추가한 마법부여입니다.$(br)$(br)이 마법부여는 산탄총의 확산을 감소시킵니다.$(br)$(br)최대 레벨: 2$(br)$(br)슬러그 변환과 호환되지 않음"
+    },
+	{
+      "type": "patchouli:image",
+      "images": ["terramity:textures/screens/guns.png"],
+      "border": true
+    }
+  ]
+}

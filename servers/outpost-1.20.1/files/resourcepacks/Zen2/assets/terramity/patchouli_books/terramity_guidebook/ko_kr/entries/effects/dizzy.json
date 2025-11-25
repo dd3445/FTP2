@@ -1,0 +1,11 @@
+{
+  "name": "어지러움",
+  "icon": "minecraft:potion",
+  "category": "terramity:effects",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "어지러움은 테라미티에 추가된 새로운 물약/상태 효과입니다.$(br2)이 효과는 당신을 정말 어지럽게 만듭니다... 멀미 문제나 간질이 있는 분은 발효된 사과주 액세서리를 사용하지 않는 것이 좋습니다."
+    }
+  ]
+}

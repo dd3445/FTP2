@@ -1,0 +1,28 @@
+{
+  "name": "총알 종류",
+  "icon": "terramity:gold_round",
+  "category": "terramity:guns",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "테라미티에는 다양한 탄약 종류가 있습니다.$(br2)테라미티의 총기는 특정 탄약 유형만 사용할 수 있습니다.$(br2)총을 꺼내면 탄약 카운터 오버레이에 어떤 종류의 탄약을 사용하는지 표시됩니다."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "text": "예를 들어, 기본 소총은 대부분의 모드팩에서 상당히 저렴하고 파밍도 가능한 금 탄환만 사용합니다. 탄약이 부족해지면 $(l:terramity:misc/bomb_flower)폭탄꽃$() 농장에서 화약을 획득하세요!",
+	  "item": {
+		"item": "terramity:basic_rifle"
+	  }
+    },
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "terramity:copper_round_recipe",
+	  "recipe2": "terramity:gold_round_recipe"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "terramity:daemonium_shotshell_recipe",
+	  "recipe2": "terramity:dimlite_round_recipe"
+	}
+  ]
+}

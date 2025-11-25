@@ -1,0 +1,16 @@
+{
+  "name": "바닥 없는 탄창",
+  "icon": "minecraft:enchanted_book",
+  "category": "terramity:enchants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "바닥 없는 탄창은 테라미티가 추가한 마법부여입니다.$(br)$(br)이 마법부여를 지원하는 모든 총기의 최대 탄약이 증가합니다. 추가되는 양은 총기마다 다릅니다.$(br)$(br)최대 레벨: 3"
+    },
+	{
+      "type": "patchouli:image",
+      "images": ["terramity:textures/screens/guns.png"],
+      "border": true
+    }
+  ]
+}

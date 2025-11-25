@@ -1,0 +1,22 @@
+{
+  "name": "파괴의 악보",
+  "icon": "terramity:music_sheet_of_destruction",
+  "category": "terramity:ocarina",
+  "sortnum": 23,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+	  "title": "Music Sheet of Destruction",
+	  "text": "파괴의 악보가 주변 몹에게 즉시 피해 II를 주는 약화 효과를 부여합니다.$(br2)이 악보는 삼도천 피에 생명의 악보를 던져 얻을 수 있습니다.",
+	  "item": {
+		"item": "terramity:music_sheet_of_destruction"
+	  }
+    },
+	{
+      "type": "patchouli:image",
+      "title": "Music Sheets",
+      "images": ["terramity:textures/screens/music_sheets.png"],
+      "border": true
+    }
+  ]
+}

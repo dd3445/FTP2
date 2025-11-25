@@ -1,0 +1,11 @@
+{
+  "name": "중력 반전",
+  "icon": "minecraft:potion",
+  "category": "terramity:effects",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "중력 반전은 테라미티에 추가된 새로운 물약/상태 효과입니다.$(br2)코스믹라이트 갑옷의 세트 보너스로만 주어지는 이 효과는 중력을 거꾸로 뒤집어버립니다."
+    }
+  ]
+}

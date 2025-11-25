@@ -1,0 +1,67 @@
+{
+  "name": "총기 종류",
+  "icon": "terramity:pump_action_shotgun",
+  "category": "terramity:guns",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "테라미티에는 다양한 총기 종류가 있습니다.$(br2)테라미티의 총은 기능과 목적이 매우 다양합니다. 미니건, 산탄총, 심지어 레일건까지 다양한 총기류가 있습니다."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "text": "테라미티의 권총은 일반적으로 탄창당 탄약이 많고, 강력한 피해를 입히며, 한 손으로 조작할 수 있어 근접 무기와 총을 동시에 사용할 수 있습니다.",
+	  "item": {
+		"item": "terramity:basic_pistol"
+	  }
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "테라미티의 반자동 소총은 사거리가 길고 적절한 속도로 발사되며 확실한 피해를 입힙니다.",
+	  "item": {
+		"item": "terramity:basic_rifle"
+	  }
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "테라미티의 저격 소총은 사거리가 매우 길고 총알이 떨어지지 않으며 높은 데미지를 입히지만, 탄약 소모량이 많고 재장전하는 데 시간이 오래 걸리는 경우가 있습니다.",
+	  "item": {
+		"item": "terramity:elite_rifle"
+	  }
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "테라미티의 자동 소총은 사거리가 길고 막대한 피해를 입히지만, 정확도가 떨어지거나 발사 비용이 많이 들 수 있습니다.",
+	  "item": {
+		"item": "terramity:advanced_automatic_rifle"
+	  }
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "테라미티의 산탄총은 매우 강력하고 넉백 피해가 크지만 사거리가 짧습니다.",
+	  "item": {
+		"item": "terramity:pump_action_shotgun"
+	  }
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "테라미티의 레일건은 매우 강력하고 명중률이 높으며 탄약을 사용하지 않습니다. 레일건은 일반 총과 달리 재사용 대기시간이 있으므로 비상시를 대비해 항상 준비해 두는 것이 좋습니다.",
+	  "item": {
+		"item": "terramity:railgun"
+	  }
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "테라미티의 로켓 발사기는 발사하는 지형에 신경 쓰지 않고 대규모의 적을 한 번에 파괴하고 제거하기에 좋습니다.",
+	  "item": {
+		"item": "terramity:rocket_launcher"
+	  }
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "특정 범주에 속하지 않지만 총기로서 기능하는 총기류도 있습니다.",
+	  "item": {
+		"item": "terramity:flare_gun"
+	  }
+    }
+  ]
+}

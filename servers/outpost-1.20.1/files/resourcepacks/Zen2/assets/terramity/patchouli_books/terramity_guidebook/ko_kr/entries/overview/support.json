@@ -1,0 +1,18 @@
+{
+  "name": "모드 지원",
+  "icon": "terramity:crystal_heart",
+  "category": "terramity:overview",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "저를 후원하거나 기부하고 싶으시다면 Ko-Fi 페이지에서 확인하세요.$(br)기부한다고 해서 아무것도 얻을 수 있는 것은 아니지만 그래도 저나 모드를 후원하고 싶으시면 아래 링크를 참조하세요.",
+	  "url": "https://ko-fi.com/aurukel",
+	  "link_text": "Ko-Fi 페이지"
+    },
+	{
+      "type": "patchouli:image",
+      "images": ["terramity:textures/screens/awesome_chiaotzu.png"],
+      "border": true
+    }
+  ]
+}

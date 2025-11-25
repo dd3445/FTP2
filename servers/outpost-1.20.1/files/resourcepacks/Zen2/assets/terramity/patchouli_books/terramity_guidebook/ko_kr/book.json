@@ -1,0 +1,9 @@
+{
+  "name": "테라미티 가이드북",
+  "landing_text": "테라미티 모드에 오신 것을 환영합니다! 이 책은 막막하거나 혼란스러울 때, 또는 모드에 대해 조금 더 알고 싶을 때 참고할 수 있는 가이드/위키 역할을 할 것입니다.",
+  "version": 1,
+  "creative_tab": "terramity:terramity_tab",
+  "use_resource_pack": true,
+  "book_texture": "terramity:textures/screens/terramity_guidebook.png",
+  "model": "terramity:terramity_guidebook_icon"
+}

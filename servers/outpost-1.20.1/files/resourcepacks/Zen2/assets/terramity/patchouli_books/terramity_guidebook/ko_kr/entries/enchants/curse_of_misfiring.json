@@ -1,0 +1,16 @@
+{
+  "name": "오발 저주",
+  "icon": "minecraft:enchanted_book",
+  "category": "terramity:enchants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "오발 저주는 테라미티가 추가하는 저주 마법부여입니다.$(br)$(br)이 마법부여는 모든 총기의 넉백/반동을 두 배로 증가시킵니다.$(br)$(br)최대 레벨: 1"
+    },
+	{
+      "type": "patchouli:image",
+      "images": ["terramity:textures/screens/guns.png"],
+      "border": true
+    }
+  ]
+}

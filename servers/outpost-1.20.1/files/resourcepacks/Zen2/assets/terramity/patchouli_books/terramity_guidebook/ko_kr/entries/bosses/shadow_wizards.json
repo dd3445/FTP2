@@ -1,0 +1,46 @@
+{
+  "name": "그림자 마법사",
+  "icon": "terramity:gundalfs_hat_helmet",
+  "category": "terramity:bosses",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "'그림자 마법사'는 테라미티 진행 과정의 네 번째이자 마지막 보스입니다.$(br2)크소닉 대성당에 있는 받침대에 오컬트 직물을 사용해 소환할 수 있습니다.$(br2)추천 장비:$(br) -공허/헬스펙/도체 방어구$(br) -강력한 무기 및 악세서리"
+    },
+	{
+      "type": "patchouli:entity",
+      "entity": "terramity:enchanter_merlin",
+      "scale": 0.65,
+	  "offset": 0.65,
+	  "rotate": true
+    },
+	{
+      "type": "patchouli:entity",
+      "entity": "terramity:sorceress_circe",
+      "scale": 0.65,
+	  "offset": 0.65,
+	  "rotate": true
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "크소닉 대성당에 있는 받침대에 오컬트 직물을 사용해 소환 할 수 있으며, 투기장에 있는 보스를 잡아야 합니다! 너무 멀리 가면 엉망이 될 수 있습니다. 크소닉 대성당은 네더 천장 어디에서나 찾을 수 있습니다.$(br2)오컬트 직물은 크소닉 던전에서 찾을 수 있습니다.",
+	  "item": {
+		"item": "terramity:occult_fabric"
+	  }
+    },
+	{
+      "type": "patchouli:image",
+      "title": "Chthonic Cathedral",
+      "images": ["terramity:textures/screens/cathedral.png"],
+      "border": true
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "그림자 마법사는 쓰러뜨리면 최종 금속 제작에 필요한 아이템인 안티프리즘을 떨어뜨립니다.",
+	  "item": {
+		"item": "terramity:antiprism"
+	  }
+    }
+  ]
+}

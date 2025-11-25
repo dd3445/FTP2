@@ -1,0 +1,18 @@
+{
+  "name": "설문조사(여기를 클릭)",
+  "icon": "terramity:gaias_grace",
+  "category": "terramity:overview",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "몇 분의 시간을 내어 모드에 기여할 수 있다면 아래 설문조사에 참여하세요. 기능을 제안하고 싶다면 이렇게 하는 것이 가장 좋은 방법입니다! 제가 귀하의 아이디어를 추가하게 되면 크레딧을 드리고 모드에 추가할 수 있으며, 답변의 어딘가에 귀하의 사용자 아이디를 반드시 포함시켜 주세요.",
+	  "url": "https://docs.google.com/forms/d/e/1FAIpQLSdSbeZEJEnXBIwsVhdcESFpxfvbbVVuCrGVjhakPar57_0A_w/viewform?usp=sf_link",
+	  "link_text": "설문조사 참여하기"
+    },
+	{
+      "type": "patchouli:image",
+      "images": ["terramity:textures/screens/survey.png"],
+      "border": true
+    }
+  ]
+}

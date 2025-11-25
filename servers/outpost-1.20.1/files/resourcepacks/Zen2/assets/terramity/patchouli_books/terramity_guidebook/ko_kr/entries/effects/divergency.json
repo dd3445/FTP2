@@ -1,0 +1,11 @@
+{
+  "name": "일탈",
+  "icon": "minecraft:potion",
+  "category": "terramity:effects",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "일탈은 테라미티가 추가한 새로운 물약/상태 효과입니다.$(br2)이 효과는 짧은 지연 시간 동안 모든 피해를 두 번 입히며, 피해량이 두 배로 증가합니다. 두 번째 공격의 피해량은 20으로 제한됩니다."
+    }
+  ]
+}

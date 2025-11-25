@@ -1,0 +1,16 @@
+{
+  "name": "날카로운 탄환",
+  "icon": "minecraft:enchanted_book",
+  "category": "terramity:enchants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "날카로운 탄환은 테라미티가 추가한 마법부여입니다.$(br)$(br)이 마법부여로 총알의 공격력이 레벨마다 6.667% 증가합니다.$(br)$(br)최대 레벨: 5"
+    },
+	{
+      "type": "patchouli:image",
+      "images": ["terramity:textures/screens/guns.png"],
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "풍부한 탄환",
+  "icon": "minecraft:potion",
+  "category": "terramity:effects",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "풍부한 탄환은 테라미티에 추가된 새로운 물약/상태 효과입니다.$(br2)이 효과는 재장전 시 탄약을 절약할 수 있는 기능을 추가합니다. 각 레벨은 10%부터 시작하여 10%의 확률을 추가합니다."
+    }
+  ]
+}

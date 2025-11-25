@@ -1,0 +1,16 @@
+{
+  "name": "행운의 공백",
+  "icon": "minecraft:enchanted_book",
+  "category": "terramity:enchants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "행운의 공백은 테라미티가 추가한 마법부여입니다.$(br)$(br)이 마법부여는 재장전 시 탄약을 절약할 수 있는 능력을 추가합니다. 각 레벨은 10%부터 시작하여 5%의 확률을 추가합니다.$(br)$(br)최대 레벨: 4"
+    },
+	{
+      "type": "patchouli:image",
+      "images": ["terramity:textures/screens/guns.png"],
+      "border": true
+    }
+  ]
+}

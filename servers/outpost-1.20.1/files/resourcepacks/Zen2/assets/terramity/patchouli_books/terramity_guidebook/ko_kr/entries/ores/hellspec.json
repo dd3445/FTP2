@@ -1,0 +1,27 @@
+{
+  "name": "헬스펙 합금",
+  "icon": "terramity:hellspec_alloy",
+  "category": "terramity:ores",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "헬스펙 합금은 테라미티가 추가한 새로운 금속입니다.$(br2)헬스펙 합금은 이리듐, 암흑 물질, 크소닉 수정을 함께 제작하여 얻을 수 있습니다.$(br2)암흑 물질은 첨탑 수호자를 쓰러뜨린 후에만 획득할 수 있습니다."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Hellspec Alloy",
+      "images": ["terramity:textures/screens/hellspec.png"],
+      "border": true,
+      "text": "헬스펙 합금은 지옥의 힘을 담고 있습니다."
+    },
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "terramity:hellspec_alloy_recipe",
+	  "recipe2": "terramity:hellspec_upgrade_recipe"
+	},
+	{
+      "type": "patchouli:text",
+      "text": "대장장이 형판은 첨탑 수호자에서 드랍되며, 업그레이드하려면 이리듐 장비에 사용해야 합니다."
+    }
+  ]
+}
