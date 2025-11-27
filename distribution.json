@@ -13,7 +13,7 @@
       "description": "outpost 서버 접속기",
       "icon": "https://dd3445.github.io/FTP2/icon.png",
       "version": "1.0.0",
-      "address": "apkserver.mcv.kr:25565",
+      "address": "apkserver.mcv.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
