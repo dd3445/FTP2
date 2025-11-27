@@ -1,0 +1,33 @@
+{
+  "name": "워프 파이프",
+  "icon": "terramity:warp_pipe",
+  "category": "terramity:misc",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "워프 파이프는 테라미티가 추가한 단거리 고속 이동 솔루션입니다.$(br2)기지를 빠르게 돌아다니거나, 나만 아는 미로를 만들거나, 여러 개의 워프 파이프를 연결해 장거리를 이동하는 데 사용하세요."
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "배관공 렌치를 사용하면 워프 파이프를 함께 묶고 풀 수 있습니다.$(br2)일부 워프 파이프는 다른 워프 파이프에만 바인딩할 수 있고, 일부 워프 파이프는 한 방향으로만 바인딩할 수 있습니다. 흰색과 검은색 파이프는 검은색 파이프는 흰색 파이프에만 바인딩할 수 있다는 점에서 고유하게 상호 작용합니다.",
+	  "item": {
+		"item": "terramity:plumbers_wrench"
+	  }
+    },
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "terramity:warp_pipe_recipe",
+	  "recipe2": "terramity:red_warp_pipe_recipe"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "terramity:blue_warp_pipe_recipe",
+	  "recipe2": "terramity:yellow_warp_pipe_recipe"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "terramity:white_warp_pipe_recipe",
+	  "recipe2": "terramity:black_warp_pipe_recipe"
+	}
+  ]
+}

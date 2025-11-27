@@ -1,0 +1,22 @@
+{
+  "name": "공중부양의 악보",
+  "icon": "terramity:music_sheet_of_levitation",
+  "category": "terramity:ocarina",
+  "sortnum": 21,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+	  "title": "Music Sheet of Levitation",
+	  "text": "공중 부양의 악보가 5초 동안 근처의 몹을 공중 부양 상태로 둔화시킵니다.$(br2)이 시트는 셜커에서 다소 드물게 떨어집니다.",
+	  "item": {
+		"item": "terramity:music_sheet_of_levitation"
+	  }
+    },
+	{
+      "type": "patchouli:image",
+      "title": "Music Sheets",
+      "images": ["terramity:textures/screens/music_sheets.png"],
+      "border": true
+    }
+  ]
+}

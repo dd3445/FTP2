@@ -1,0 +1,17 @@
+{
+  "name": "빠른 재장전",
+  "icon": "minecraft:enchanted_book",
+  "category": "terramity:enchants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "빠른 재장전은 테라미티가 추가한 마법부여입니다.$(br)$(br)이 마법부여는 재장전 속도를 증가시킵니다.$(br)$(br)최대 레벨: 1"
+    },
+	{
+      "type": "patchouli:image",
+      "images": ["terramity:textures/screens/guns.png"],
+	  "text": "Incompatible with Semi-Auto",
+      "border": true
+    }
+  ]
+}

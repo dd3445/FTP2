@@ -1,0 +1,27 @@
+{
+  "name": "닉시움",
+  "icon": "terramity:nyxium",
+  "category": "terramity:ores",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "닉시움은 테라미티에서 추가한 신규 금속입니다.$(br2)닉시움은 프로파늄, 안티프리즘, 유백색 월광석을 함께 제작하여 얻을 수 있습니다.$(br2)닉시움은 그림자 마법사를 쓰러뜨린 후에만 획득할 수 있습니다."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Nyxium",
+      "images": ["terramity:textures/screens/nyxium.png"],
+      "border": true,
+      "text": "닉시움은 달의 힘을 품고 있습니다."
+    },
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "terramity:nyxium_recipe",
+	  "recipe2": "terramity:nyx_to_block"
+	},
+	{
+      "type": "patchouli:text",
+      "text": "이 금속에는 대장장이 형판이 없으므로 주괴만으로 도구 세트와 방어구를 만들어야 합니다."
+    }
+  ]
+}

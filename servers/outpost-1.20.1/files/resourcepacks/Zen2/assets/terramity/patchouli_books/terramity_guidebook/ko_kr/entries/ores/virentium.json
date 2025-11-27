@@ -1,0 +1,27 @@
+{
+  "name": "비렌티움",
+  "icon": "terramity:virentium_alloy_ingot",
+  "category": "terramity:ores",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "비렌티움은 테라미티에서 추가한 신규 금속입니다.$(br2)비렌티움은 네더라이트 파편과 가이아나이트를 함께 제작하여 획득할 수 있습니다.$(br2)가이아나이트 광석은 Y=20에서 Y=-64 사이의 울창한 동굴에서 삼각형 패턴으로 발견될 수 있습니다. 가이아 백합을 통해서도 얻을 수 있습니다."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Virentium",
+      "images": ["terramity:textures/screens/virentium.png"],
+      "border": true,
+      "text": "비렌티움은 울창한 동굴의 힘을 지니고 있습니다."
+    },
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "terramity:virentium_ingot_recipe",
+	  "recipe2": "terramity:virentium_upgrade_recipe"
+	},
+	{
+      "type": "patchouli:text",
+      "text": "대장장이 형판은 '고브, 노움의 왕'과 슈퍼 스니퍼에게서 획득할 수 있으며, 네더라이트 장비에 사용해야 업그레이드할 수 있습니다."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "슬롯 머신",
+  "icon": "terramity:slot_machine",
+  "category": "terramity:misc",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "슬롯 머신은 지금까지 일궈온 모든 것을 도박으로 날려버릴 수 있는 재미있는 방법입니다.$(br2)슬롯 머신은 어떤 아이템을 넣든 두 배, 세 배, 심지어 네 배로 늘릴 수 있는 기회를 주지만, 그 아이템을 영원히 빼앗아 갈 수도 있습니다.$(br2)사용하려면 도박을 하고 싶은 아이템을 왼손에 넣고 머신을 우클릭합니다."
+    },
+    {
+	  "type": "patchouli:multiblock",
+	  "enable_visualize": false,
+	  "multiblock": {
+		"pattern": [
+			  [
+				"0"
+			  ]
+			],
+		  "mapping": {
+			"0": "terramity:slot_machine"
+		  }
+		}
+	},
+	{
+      "type": "patchouli:image",
+      "title": "Chthonic Casino",
+      "images": ["terramity:textures/screens/casino.png"],
+      "border": true
+    },
+	{
+      "type": "patchouli:text",
+      "text": "슬롯 머신은 $(l:terramity:structures/chthonic_dungeon)크소닉 던전$()에서 찾을 수 있습니다.$(br2)슬롯 머신은 배당률과 수익률이 다릅니다. 어떤 슬롯 머신은 돈을 넣으면 3배가 되지만 확률은 낮고, 다른 슬롯 머신은 돈을 넣으면 2배가 되지만 확률은 높습니다. 수익률이 높은 슬롯 머신일수록 배당률이 낮을 가능성이 높습니다."
+    },
+	{
+      "type": "patchouli:text",
+      "text": "슬롯 머신을 깼다가 다시 내려놓으면 배당률과 수익률이 다시 롤링됩니다.$(br2)슬롯 머신은 확률을 확인할 방법이 없으므로 전체 저장 시스템을 도박으로 날려버리기 전에 주의하세요."
+    }
+  ]
+}

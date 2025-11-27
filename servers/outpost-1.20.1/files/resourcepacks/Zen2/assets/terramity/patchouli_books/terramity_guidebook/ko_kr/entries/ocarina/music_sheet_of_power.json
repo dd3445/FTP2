@@ -1,0 +1,22 @@
+{
+  "name": "힘의 악보",
+  "icon": "terramity:music_sheet_of_power",
+  "category": "terramity:ocarina",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+	  "title": "Music Sheet of Power",
+	  "text": "힘의 악보가 30초 동안 힘 II를 부여합니다.$(br2)이 시트는 네더 요새 상자에서 드물게 발견됩니다.",
+	  "item": {
+		"item": "terramity:music_sheet_of_power"
+	  }
+    },
+	{
+      "type": "patchouli:image",
+      "title": "Music Sheets",
+      "images": ["terramity:textures/screens/music_sheets.png"],
+      "border": true
+    }
+  ]
+}

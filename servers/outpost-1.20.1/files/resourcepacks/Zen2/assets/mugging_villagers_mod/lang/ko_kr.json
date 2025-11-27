@@ -1,0 +1,20 @@
+{
+  "advancements.fivestarmug.title": "5성 머그",
+  "entity.mugging_villagers_mod.homeless_villager": "노숙자 주민",
+  "advancements.law_enforcement.descr": "떠돌이 상인에게 마을의 엄격한 총기 금지 정책을 시행하는 법을 목격하세요.",
+  "item.mugging_villagers_mod.lil_ill_spawn_egg": "강도 우민 생성 알",
+  "entity.mugging_villagers_mod.wandering_gangster": "격분한 떠돌이 상인",
+  "item.mugging_villagers_mod.wandering_gangster_spawn_egg": "격분한 떠돌이 상인 생성 알",
+  "advancements.mug_master.descr": "주민들을 약탈하여 총 100개의 에메랄드를 획득하세요",
+  "subtitles.gun_shot_sound": "Gun Shot Fired",
+  "entity.mugging_villagers_mod.lil_ill": "강도 우민",
+  "subtitles.cocked_gun": "Gun Cocked",
+  "advancements.law_enforcement.title": "법률 집행",
+  "item.mugging_villagers_mod.gun": "총",
+  "advancements.bribery.title": "뇌물수수",
+  "advancements.mug_master.title": "머그 마스터",
+  "advancements.fivestarmug.descr": "빌드 제한에서 주민을 습격하세요",
+  "advancements.bribery.descr": "모드 제목에 없는 범죄를 저지르세요",
+  "item.mugging_villagers_mod.homeless_villager_spawn_egg": "노숙자 주민 생성 알",
+  "effect.mugging_villagers_mod.villager_fear": "주민 공포"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "잘못 프로그래밍됨",
+  "icon": "minecraft:potion",
+  "category": "terramity:effects",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "잘못 프로그래밍됨은 테라미티에 추가된 새로운 물약/상태 효과입니다.$(br2)이 효과는 피해자에게 가하는 모든 피해가 무적 상태가 되지 않도록 합니다."
+    }
+  ]
+}

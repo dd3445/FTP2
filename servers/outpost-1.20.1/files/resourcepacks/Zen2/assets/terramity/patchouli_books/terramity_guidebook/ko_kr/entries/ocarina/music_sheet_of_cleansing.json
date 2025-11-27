@@ -1,0 +1,22 @@
+{
+  "name": "청소의 악보",
+  "icon": "terramity:music_sheet_of_cleansing",
+  "category": "terramity:ocarina",
+  "sortnum": 26,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+	  "title": "Music Sheet of Cleansing",
+	  "text": "청소의 악보는 예외 없이 사용자의 모든 물약 효과를 지웁니다.$(br2)이 시트는 불경스러운 창으로 생성되는 버추에서 다소 흔하게 획득할 수 있는 아이템입니다. 또한 소에서 떨어지는 경우는 극히 드뭅니다.",
+	  "item": {
+		"item": "terramity:music_sheet_of_cleansing"
+	  }
+    },
+	{
+      "type": "patchouli:image",
+      "title": "Music Sheets",
+      "images": ["terramity:textures/screens/music_sheets.png"],
+      "border": true
+    }
+  ]
+}

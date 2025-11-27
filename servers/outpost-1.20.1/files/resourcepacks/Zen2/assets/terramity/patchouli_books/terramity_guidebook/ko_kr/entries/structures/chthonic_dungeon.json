@@ -1,0 +1,28 @@
+{
+  "name": "크소닉 던전",
+  "icon": "terramity:chthonian_void",
+  "category": "terramity:structures",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "크소닉 던전은 테라미티 내에 있는 구조물로, 모드 진행 과정에서 네 번째 보스와 싸우기 위해 필요한 아이템이 있습니다.$(br2)이 구조물은 일반적으로 용암 호수 아래에 잠겨 있는 네더에서 찾을 수 있습니다."
+    },
+	{
+      "type": "patchouli:image",
+      "images": ["terramity:textures/screens/chthonic_dungeon.png"],
+      "border": true
+    },
+	{
+      "type": "patchouli:image",
+      "title": "Dungeon Entrance",
+      "images": ["terramity:textures/screens/dungeon_entrance.png"],
+      "border": true
+    },
+	{
+      "type": "patchouli:image",
+      "title": "Chthonic Casino",
+      "images": ["terramity:textures/screens/casino.png"],
+      "border": true
+    }
+  ]
+}

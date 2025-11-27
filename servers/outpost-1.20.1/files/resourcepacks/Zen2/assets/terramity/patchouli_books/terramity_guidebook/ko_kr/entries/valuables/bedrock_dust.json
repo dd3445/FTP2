@@ -1,0 +1,23 @@
+{
+  "name": "부패한 기반암 먼지",
+  "icon": "terramity:decayed_bedrock_dust",
+  "category": "terramity:valuables",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "기반암 먼지는 일부 액세서리와 무기의 강력한 재료로, 충분한 양만 있으면 기반암을 제작할 수도 있습니다.$(br2)$(l:terramity:bosses/trial_guardian)첨탑 수호자$()를 쓰러뜨리고 사멸 지팡이를 획득해야만 얻을 수 있습니다."
+    },
+    {
+	  "type": "patchouli:crafting",
+	  "recipe": "terramity:decayed_bedrock_recipe",
+	  "recipe2": "terramity:bedrock_recipe"
+	},
+	{
+      "type": "patchouli:spotlight",
+      "text": "$(l:terramity:bosses/trial_guardian)첨탑 수호자$()는 쓰러뜨리면 진행에 필요한 아이템인 사멸 지팡이를 떨어뜨립니다. 기반암에 사멸 지팡이를 사용하면 기반암이 부패하여 채굴할 수 있습니다.",
+	  "item": {
+		"item": "terramity:perish_staff"
+	  }
+    }
+  ]
+}

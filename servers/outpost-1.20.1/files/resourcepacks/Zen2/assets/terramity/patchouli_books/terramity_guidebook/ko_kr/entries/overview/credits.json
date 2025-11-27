@@ -1,0 +1,19 @@
+{
+  "name": "크레딧",
+  "icon": "terramity:gold_medal",
+  "category": "terramity:overview",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "text": "저는 이 책을 쓴 저자이자 모드의 저자인 Aurukel입니다. 제 유튜브 채널을 방문하시면 제가 아무렇지도 않은 글을 올리기도 합니다. 저에게 연락하고 싶으시다면 디스코드나 트위터 같은 다른 소셜 미디어를 찾아보세요.",
+	  "url": "https://www.youtube.com/@aurukel",
+	  "link_text": "Aurukel의 유튜브"
+    },
+	{
+      "type": "patchouli:link",
+      "text": "0.9.6 버전부터 Zphen은 루비, 오닉스, 토파즈, 사파이어, 이리듐 툴셋을 리프레시하여 도움을 주었습니다. 그의 작품을 확인하고 싶다면 아래에서 그의 BlueSky 프로필을 확인할 수 있습니다!",
+	  "url": "https://bsky.app/profile/zphen.bsky.social",
+	  "link_text": "Zphen의 BlueSky"
+    }
+  ]
+}

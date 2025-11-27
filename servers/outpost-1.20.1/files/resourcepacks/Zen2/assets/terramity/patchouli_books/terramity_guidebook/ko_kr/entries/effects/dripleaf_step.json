@@ -1,0 +1,11 @@
+{
+  "name": "흘림잎 걸음",
+  "icon": "minecraft:potion",
+  "category": "terramity:effects",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "흘림잎 걸음은 테라미티에 추가된 새로운 물약/상태 효과입니다.$(br2)비렌티움 갑옷의 세트 보너스로만 얻을 수 있는 이 효과는 발 아래에 흘림잎 블록을 배치하여 공중에 걸을 수 있게 해줍니다."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "첨탑 수호자",
+  "icon": "terramity:spire_key",
+  "category": "terramity:bosses",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "'첨탑 수호자' 는 테라미티 진행 과정의 세 번째 보스입니다.$(br2)시련의 첨탑에 있는 자물쇠에 첨탑 열쇠를 삽입하여 소환할 수 있습니다.$(br2)추천 장비:$(br) -딤라이트/비렌티움/코스믹라이트 방어구$(br) -강력한 근접 무기"
+    },
+	{
+      "type": "patchouli:entity",
+      "entity": "terramity:trial_guardian",
+	  "text": "모든 투사체 공격에 면역입니다.",
+      "scale": 0.5,
+	  "offset": 0.65,
+	  "rotate": true
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "시련의 첨탑에 있는 자물쇠에 첨탑 열쇠를 삽입하여 소환할 수 있습니다. 시련의 첨탑은 바다 어디에서나 찾을 수 있습니다.$(br2)첨탑 열쇠는 시련의 첨탑 곳곳에서 찾을 수 있습니다.",
+	  "item": {
+		"item": "terramity:spire_key"
+	  }
+    },
+	{
+      "type": "patchouli:image",
+      "title": "Trial Spire",
+      "images": ["terramity:textures/screens/spire.png"],
+      "border": true
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "첨탑 수호자를 쓰러트리면 진행에 필요한 아이템인 사멸 지팡이를 떨어트립니다. 기반암 암흑 물질 광석에 사멸 지팡이를 사용하면 광석을 부패시켜 채굴할 수 있습니다.",
+	  "item": {
+		"item": "terramity:perish_staff"
+	  }
+    }
+  ]
+}

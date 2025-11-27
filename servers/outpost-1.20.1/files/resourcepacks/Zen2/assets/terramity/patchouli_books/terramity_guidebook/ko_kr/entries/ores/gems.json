@@ -1,0 +1,19 @@
+{
+  "name": "보석들",
+  "icon": "terramity:prismatic_jewel",
+  "category": "terramity:ores",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "테라미티에는 새로운 보석이 많이 있습니다.$(br2)루비, 사파이어, 토파즈, 오닉스, 무지개빛 파편을 조합하여 다양한 아이템을 만들 수 있는 새로운 보석입니다."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "루비는 네더의 거의 모든 곳에서 찾을 수 있습니다.$(br2)사파이어는 눈 덮인 생물군계에서 찾을 수 있습니다.$(br2)토파즈는 덥고 건조한 생물군계에서 발견됩니다.$(br2)오닉스는 엔더에서 찾을 수 있습니다.$(br2)무지개빛 파편은 오버월드 어디에서나 찾을 수 있습니다."
+    },
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "terramity:prismatic_jewel_recipe"
+	}
+  ]
+}

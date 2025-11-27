@@ -1,0 +1,16 @@
+{
+  "name": "오버클럭",
+  "icon": "minecraft:enchanted_book",
+  "category": "terramity:enchants",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "오버클럭은 테라미티가 추가한 마법부여입니다.$(br)$(br)이 마법부여는 레일건형 무기의 감김 속도를 감소시킵니다.$(br)$(br)최대 레벨: 1"
+    },
+	{
+      "type": "patchouli:image",
+      "images": ["terramity:textures/screens/guns.png"],
+      "border": true
+    }
+  ]
+}

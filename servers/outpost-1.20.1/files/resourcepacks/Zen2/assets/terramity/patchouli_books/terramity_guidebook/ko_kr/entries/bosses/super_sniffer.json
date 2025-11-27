@@ -1,0 +1,31 @@
+{
+  "name": "슈퍼 스니퍼",
+  "icon": "minecraft:sniffer_egg",
+  "category": "terramity:bosses",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "'슈퍼 스니퍼'는 테라미티 진행 과정의 두 번째 보스입니다.$(br2)번개로 스니퍼를 치면 전 세계 어디에서나 소환할 수 있습니다.$(br2)추천 장비:$(br) -딤라이트/비렌티움 방어구, 좋은 경기장, 일종의 대시, 강력한 총기"
+    },
+	{
+      "type": "patchouli:entity",
+      "entity": "terramity:super_sniffer",
+      "scale": 0.8,
+	  "offset": 0.65,
+	  "rotate": true
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "번개로 스니퍼를 쳐서 소환할 수 있습니다. 라이트닝 스태프를 만들어 스니퍼 옆에 치는 것(아니면 죽을 수도 있습니다)이 가장 쉬운 방법입니다.$(br2)스니퍼 알은 많은 테라미티 구조물에서 다소 드물게 발견할 수 있습니다.",
+	  "item": {
+		"item": "minecraft:sniffer_egg"
+	  }
+    },
+	{
+	  "type": "patchouli:crafting",
+	  "text": "슈퍼 스니퍼 전투에는 경기장이 필수입니다. 경기장에는 광선 공격을 막기 위한 흑요석 봉쇄 장치가 있어야 합니다. 슈퍼 스니퍼의 영혼 폭탄은 어떤 경기장도 뚫을 수 있으니 조심하세요!",
+	  "recipe": "terramity:lightning_staff_recipe"
+    }
+  ]
+}

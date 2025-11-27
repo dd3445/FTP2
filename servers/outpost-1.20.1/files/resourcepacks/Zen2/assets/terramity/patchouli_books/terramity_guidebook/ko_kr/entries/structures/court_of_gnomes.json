@@ -1,0 +1,24 @@
+{
+  "name": "노움의 궁전",
+  "icon": "terramity:red_gnome_hat_helmet",
+  "category": "terramity:structures",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "노움의 궁전은 테라미티에 있는 구조물로, 모드 진행 중 첫 번째 보스와 싸워야 합니다.$(br2)이 구조물은 어두운 숲과 늪에서만 볼 수 있습니다."
+    },
+	{
+      "type": "patchouli:spotlight",
+      "text": "$(l:terramity:bosses/gob)고브, 노움의 왕$()은 궁전 안에 있는 금빛 노움 조각상에 $(l:terramity:misc/gnome_bartering)빨강 노움 모자$()를 우클릭하면 소환할 수 있습니다.",
+	  "item": {
+		"item": "terramity:red_gnome_hat_helmet"
+	  }
+    },
+	{
+      "type": "patchouli:image",
+      "title": "Court of Gnomes",
+      "images": ["terramity:textures/screens/court.png"],
+      "border": true
+    }
+  ]
+}
