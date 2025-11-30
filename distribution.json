@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,8 +12,8 @@
       "name": "outpost (Minecraft 1.20.1)",
       "description": "outpost 서버 접속기",
       "icon": "https://dd3445.github.io/FTP2/icon.png",
-      "version": "1.0.0",
-      "address": "apkserver.mcv.kr",
+      "version": "1.0.1",
+      "address": "apkserver.mcv.kr:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1053,13 +1053,13 @@
           }
         },
         {
-          "id": "org.valkyrienskies.eureka:vs_eureka:1.5.1-beta.3@jar",
+          "id": "org.valkyrienskies.eureka:vs_eureka:1.5.2-beta.3@jar",
           "name": "VS Eureka Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 501311,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/eureka-1201-1.5.1-beta.3.jar",
-            "MD5": "47fa26554269a74449fc5159501a7cc2"
+            "size": 506464,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/eureka-1201-1.5.2-beta.3.jar",
+            "MD5": "42daa9e5c1d1554665beec7bf980cafe"
           }
         },
         {
@@ -1113,13 +1113,13 @@
           }
         },
         {
-          "id": "dev.obscuria:fragmentum:0.6.9@jar",
+          "id": "dev.obscuria:fragmentum:1.0.3@jar",
           "name": "Fragmentum",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1678046,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/fragmentum-forge-1.20.1-0.6.9.jar",
-            "MD5": "f499ad8ee8369d609b83caf4297d9ede"
+            "size": 1690122,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/fragmentum-forge-1.20.1-1.0.3.jar",
+            "MD5": "a9537f78f6efbabc523e172c2c27beb0"
           }
         },
         {
@@ -1193,13 +1193,13 @@
           }
         },
         {
-          "id": "tallestegg.guardvillagers:guardvillagers:1.20.1-1.6.11@jar",
+          "id": "tallestegg.guardvillagers:guardvillagers:1.20.1-1.6.13@jar",
           "name": "Guard Villagers",
           "type": "ForgeMod",
           "artifact": {
-            "size": 199780,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/guardvillagers-1.20.1-1.6.11.jar",
-            "MD5": "df25eb193865e3d7d63a2a36704e2819"
+            "size": 205106,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/guardvillagers-1.20.1-1.6.13.jar",
+            "MD5": "d70c784db6bc660fbe20df5221d7beba"
           }
         },
         {
@@ -1423,13 +1423,13 @@
           }
         },
         {
-          "id": "noobanidus.mods:lootr:0.7.35.92@jar",
+          "id": "noobanidus.mods:lootr:0.7.35.94@jar",
           "name": "Lootr",
           "type": "ForgeMod",
           "artifact": {
-            "size": 460882,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.93.jar",
-            "MD5": "2d5374b809d9ec1d7700a194b2fd0dd5"
+            "size": 463485,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.94.jar",
+            "MD5": "56dd6966de4ba641cf00ef5b9ce8d2d7"
           }
         },
         {
@@ -1563,13 +1563,13 @@
           }
         },
         {
-          "id": "net.mcreator:mortality:0.0.45.2@jar",
+          "id": "net.mcreator:mortality:0.0.45.7@jar",
           "name": "Mortality",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2580024,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/mortality-0.0.45.3-forge-1.20.1.jar",
-            "MD5": "2ac2c128f8cb973e7d60607b39c9327c"
+            "size": 2601320,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/mortality-0.0.45.6.11-forge-1.20.1.jar",
+            "MD5": "49421c7e8033a9abd3ab67cc61d061b7"
           }
         },
         {
@@ -1593,13 +1593,13 @@
           }
         },
         {
-          "id": "dev.obscuria.tooltips:obscure_tooltips:3.3.1@jar",
+          "id": "dev.obscuria.tooltips:obscure_tooltips:3.4.0@jar",
           "name": "Obscure Tooltips",
           "type": "ForgeMod",
           "artifact": {
-            "size": 856459,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/obscure_tooltips-forge-1.20.1-3.3.1.jar",
-            "MD5": "bcc2c2c35578a849286f200204016b69"
+            "size": 1074739,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/obscure_tooltips-forge-1.20.1-3.4.0.jar",
+            "MD5": "6b419396e17a5136a2d9d99a9774887a"
           }
         },
         {
