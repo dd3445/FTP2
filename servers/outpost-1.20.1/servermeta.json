@@ -1,7 +1,7 @@
 {
   "$schema": "file:///F:/MRS/Nebula/FD/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "name": "outpost (Minecraft 1.20.1)",
     "description": "outpost 서버 접속기",
     "icon": "https://dd3445.github.io/FTP2/icon.png",
