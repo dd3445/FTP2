@@ -2143,16 +2143,6 @@
           }
         },
         {
-          "id": "com.example.wariumintergrations:warium_integrations:1.0.0@jar",
-          "name": "Warium Integrations",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 61100,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/warium_integrations-1.0.0.jar",
-            "MD5": "920bfa29165b04f58cf81b220a409805"
-          }
-        },
-        {
           "id": "net.mcreator.crustychunks:crusty_chunks:1.2.0@jar",
           "name": "Warium",
           "type": "ForgeMod",
