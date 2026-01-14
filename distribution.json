@@ -2103,16 +2103,6 @@
           }
         },
         {
-          "id": "crazywoddman.warium_additions:warium_additions:0.2.2@jar",
-          "name": "Warium Additions",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1144433,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/warium_additions-0.2.2-all.jar",
-            "MD5": "ecf55721cd9e4da618778b6a660721c0"
-          }
-        },
-        {
           "id": "net.mcreator.wariumextras:warium_extras:1.1.0@jar",
           "name": "Warium Extras",
           "type": "ForgeMod",
