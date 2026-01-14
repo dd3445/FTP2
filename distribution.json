@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "outpost (Minecraft 1.20.1)",
       "description": "outpost 서버 접속기",
       "icon": "https://dd3445.github.io/FTP2/icon.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "apkserver.mcv.kr:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -533,13 +533,13 @@
           }
         },
         {
-          "id": "net.blay09.mods:balm:7.3.37@jar",
+          "id": "net.blay09.mods:balm:7.3.38@jar",
           "name": "Balm",
           "type": "ForgeMod",
           "artifact": {
-            "size": 590486,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.37-all.jar",
-            "MD5": "e4d3fb7b0d8e9271aca89f7964367b1a"
+            "size": 591397,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.38-all.jar",
+            "MD5": "499467bc8050be8893b08995438cc026"
           }
         },
         {
@@ -633,16 +633,6 @@
           }
         },
         {
-          "id": "com.abdelaziz:canary:0.3.3@jar",
-          "name": "Canary",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 594191,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/canary-mc1.20.1-0.3.3.jar",
-            "MD5": "1bd8bdb43c190ddc671c5ea0bf3b8cb1"
-          }
-        },
-        {
           "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
           "name": "CaramelChat",
           "type": "ForgeMod",
@@ -693,6 +683,16 @@
           }
         },
         {
+          "id": "org.valkyrienskies.clockwork:vs_clockwork:0.5.4.4@jar",
+          "name": "Clockwork",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10832178,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/clockwork-0.5.4.4.jar",
+            "MD5": "4be8f88daa62f231c50c2df6fe58f5b2"
+          }
+        },
+        {
           "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
           "name": "Cloth Config v10 API",
           "type": "ForgeMod",
@@ -713,13 +713,13 @@
           }
         },
         {
-          "id": "com.connectivity:connectivity:1.20.1-7.2@jar",
+          "id": "com.connectivity:connectivity:1.20.1-7.6@jar",
           "name": "Connectivity Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 112268,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/connectivity-1.20.1-7.2.jar",
-            "MD5": "b18f084c146f9725fe85f6a2fb869721"
+            "size": 120598,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/connectivity-1.20.1-7.6.jar",
+            "MD5": "59797700faa0a7b32e0db84b333805a3"
           }
         },
         {
@@ -770,16 +770,6 @@
             "size": 9595,
             "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/cosmeticcorpsecompat-1.19.x-1.20.x-Forge-1.0.0.jar",
             "MD5": "679886629bc9c921ddc655be978c03fa"
-          }
-        },
-        {
-          "id": "net.lointain:cosmos:0.0.7.3@jar",
-          "name": "Cosmic Horizons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28385967,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/Cosmic_Horizons_0.0.7.3-forge-1.20.1.jar",
-            "MD5": "c9780e875ca48cd728f5695cf086a664"
           }
         },
         {
@@ -893,13 +883,13 @@
           }
         },
         {
-          "id": "createstructuresarise:create_structures_arise:167.40.39@jar",
+          "id": "createstructuresarise:create_structures_arise:169.42.41@jar",
           "name": "Create: Structures Arise",
           "type": "ForgeMod",
           "artifact": {
-            "size": 669025,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/create_structures_arise-167.40.39%20Release-forge-1.20.1.jar",
-            "MD5": "8d4e8b87ea4d90aca8548f8a3ec248a1"
+            "size": 1324425,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/create_structures_arise-169.42.41%20Release-forge-1.20.1.jar",
+            "MD5": "57e4c5caf91ff44db7506f76509f8a5c"
           }
         },
         {
@@ -913,13 +903,13 @@
           }
         },
         {
-          "id": "create_ultimate_factory:create_ultimate_factory:2.2.1@jar",
+          "id": "create_ultimate_factory:create_ultimate_factory:2.2.2@jar",
           "name": "Create: Ultimate Factory",
           "type": "ForgeMod",
           "artifact": {
-            "size": 229986,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/create_ultimate_factory-2.2.1-forge-1.20.1.jar",
-            "MD5": "fd131a652d067ab919242d6cacbae11e"
+            "size": 232087,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/create_ultimate_factory-2.2.2-forge-1.20.1.jar",
+            "MD5": "cc527ce6936cf2ea61a72695835a7eb3"
           }
         },
         {
@@ -963,13 +953,13 @@
           }
         },
         {
-          "id": "rbasamoyai.createbigcannons:createbigcannons:5.10.0@jar",
+          "id": "rbasamoyai.createbigcannons:createbigcannons:5.10.1@jar",
           "name": "Create Big Cannons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3981746,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/createbigcannons-5.10.0-mc.1.20.1-forge.jar",
-            "MD5": "cb4b7d85363047e438373103630d1b1b"
+            "size": 3983620,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/createbigcannons-5.10.1-mc.1.20.1-forge.jar",
+            "MD5": "453f1be2ea48c651bd3b6dc3b22dd3af"
           }
         },
         {
@@ -983,13 +973,13 @@
           }
         },
         {
-          "id": "com.jesz:createdieselgenerators:1.20.1-1.3.5@jar",
+          "id": "com.jesz:createdieselgenerators:1.20.1-1.3.8@jar",
           "name": "Create Diesel Generators",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3120516,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/createdieselgenerators-1.20.1-1.3.5.jar",
-            "MD5": "f4c8b54702077b65e34a3412ec0b8baa"
+            "size": 3121891,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/createdieselgenerators-1.20.1-1.3.8.jar",
+            "MD5": "af761b171cffdea81b27e398d0b2520d"
           }
         },
         {
@@ -1093,13 +1083,13 @@
           }
         },
         {
-          "id": "com.nanaios:curiosable_ammo_box:0.3.0@jar",
+          "id": "com.nanaios:curiosable_ammo_box:0.4.0@jar",
           "name": "Curiosable_ammo_box",
           "type": "ForgeMod",
           "artifact": {
-            "size": 17185,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/curiosable_ammo_box-0.3.0.jar",
-            "MD5": "d42eeda00403386595e5a0ea1811cb77"
+            "size": 20393,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/curiosable_ammo_box-0.4.0.jar",
+            "MD5": "4c23f19b4912edcea364202ccd0d0e30"
           }
         },
         {
@@ -1110,6 +1100,26 @@
             "size": 3247550,
             "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/dndecor-2.1.0.jar",
             "MD5": "418c8173418308a20a3ddf08f253552a"
+          }
+        },
+        {
+          "id": "net.mcreator.drivebywirerecipes:drivebywire_recipes:1.0.0@jar",
+          "name": "Drive-By-Wire: Recipes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7076,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/drivebywire_recipes-1.1.0.jar",
+            "MD5": "b7d6bcc96787c0ed44ed2d6f2d800216"
+          }
+        },
+        {
+          "id": "edn.stratodonut:drivebywire:0.1.0@jar",
+          "name": "Drive-By-Wire Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 275713,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/drivebywire-1.20.1-0.1.0.jar",
+            "MD5": "85f0f266303a93ea26365f03af82e26e"
           }
         },
         {
@@ -1143,23 +1153,23 @@
           }
         },
         {
-          "id": "dev.tr7zw:entityculling:1.9.4@jar",
+          "id": "dev.tr7zw:entityculling:1.9.5@jar",
           "name": "EntityCulling",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1568324,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/entityculling-forge-1.9.4-mc1.20.1.jar",
-            "MD5": "fdc791c2247535f6602650a3cc6f8f36"
+            "size": 1569588,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/entityculling-forge-1.9.5-mc1.20.1.jar",
+            "MD5": "9de621a952ae3f73774bad91e6f4c718"
           }
         },
         {
-          "id": "org.valkyrienskies.eureka:vs_eureka:1.5.2-beta.3@jar",
+          "id": "org.valkyrienskies.eureka:vs_eureka:1.6.1@jar",
           "name": "VS Eureka Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 506464,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/eureka-1201-1.5.2-beta.3.jar",
-            "MD5": "42daa9e5c1d1554665beec7bf980cafe"
+            "size": 462497,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/eureka-1201-1.6.1.jar",
+            "MD5": "13ca38b0a2f7ab02954da00bbb80782e"
           }
         },
         {
@@ -1233,13 +1243,13 @@
           }
         },
         {
-          "id": "xfacthd.framedblocks:framedblocks:9.4.2@jar",
+          "id": "xfacthd.framedblocks:framedblocks:9.4.3@jar",
           "name": "FramedBlocks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4251277,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/FramedBlocks-9.4.2.jar",
-            "MD5": "aaf372a3d903d167c138e2eb8110078b"
+            "size": 4251314,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/FramedBlocks-9.4.3.jar",
+            "MD5": "9afefc077f00c192b0f953c2987c5a66"
           }
         },
         {
@@ -1423,13 +1433,13 @@
           }
         },
         {
-          "id": "com.sudolev:interiors:0.5.6@jar",
+          "id": "com.aesefficio:interiors:0.6.0@jar",
           "name": "Create: Interiors",
           "type": "ForgeMod",
           "artifact": {
-            "size": 465540,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/interiors-0.5.6+forge-mc1.20.1-local.jar",
-            "MD5": "20974d4752c8aaec1bd451044728b2a0"
+            "size": 489265,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/interiors-1.20.1-forge-0.6.0.jar",
+            "MD5": "ce68bdf83822db82b2e258b49ee3d074"
           }
         },
         {
@@ -1527,9 +1537,9 @@
           "name": "Lethality",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3372844,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/lethality-0.3.1-1.20.1.jar",
-            "MD5": "0a4e37094bd8240052c0935899db9d5f"
+            "size": 3550855,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/lethality_0.4.1_1.20.1.jar",
+            "MD5": "18b938ceddde0352ee84eb98a941c2d5"
           }
         },
         {
@@ -1693,13 +1703,13 @@
           }
         },
         {
-          "id": "net.dragonegg:moreburners:1.20.1-0.3.4@jar",
+          "id": "net.dragonegg:moreburners:1.20.1-0.3.5@jar",
           "name": "More Create Burners",
           "type": "ForgeMod",
           "artifact": {
-            "size": 146196,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/moreburners-1.20.1-0.3.4.jar",
-            "MD5": "82966fa748222272f8574ebd8bd77829"
+            "size": 146225,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/moreburners-1.20.1-0.3.5.jar",
+            "MD5": "afa8b306de1f265af7cd1ad014c3ff14"
           }
         },
         {
@@ -1753,16 +1763,6 @@
           }
         },
         {
-          "id": "com.lorez:nuke_bay:1.20.1-SNAPSHOT@jar",
-          "name": "Nuclear Bomb Bay",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 22663,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/Nuke_bay-1.20.1-1.1.jar",
-            "MD5": "4b2f8f162bb0a9d42a8326810f786c00"
-          }
-        },
-        {
           "id": "com.obscuria.obscureapi:obscure_api:18@jar",
           "name": "Obscure API",
           "type": "ForgeMod",
@@ -1793,13 +1793,13 @@
           }
         },
         {
-          "id": "com.lowdragmc:photon:1.1.14@jar",
+          "id": "com.lowdragmc:photon:1.1.16@jar",
           "name": "Photon",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4448109,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/photon-forge-1.20.1-1.1.14.jar",
-            "MD5": "90814ecc88f87320193aafefeb9b75f6"
+            "size": 5068934,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/photon-forge-1.20.1-1.1.16.jar",
+            "MD5": "53fec7daf9e18846b36e29e9814e301e"
           }
         },
         {
@@ -1837,9 +1837,9 @@
           "name": "Create: Radars",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2599118,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/Radars%200.3.5-create6.jar",
-            "MD5": "7951621527d8a1816fc05d600ba0f0c9"
+            "size": 2600268,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/Radars%200.3.5.1-Create6.jar",
+            "MD5": "52c2644b12a09bdcaa4e80857712aaa8"
           }
         },
         {
@@ -1983,16 +1983,6 @@
           }
         },
         {
-          "id": "net.jcm:vsch:1.4.2@jar",
-          "name": "Starlance: Valkyrien Skies X Cosmic Horizons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 402030,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/starlance-1.4.2.jar",
-            "MD5": "94e62467826c62e9487736241789f8ce"
-          }
-        },
-        {
           "id": "com.jaquadro.minecraft:storagedrawers:12.14.3@jar",
           "name": "Storage Drawers",
           "type": "ForgeMod",
@@ -2023,13 +2013,13 @@
           }
         },
         {
-          "id": "com.tacz.guns:tacz:1.1.7@jar",
+          "id": "com.tacz.guns:tacz:1.1.7-hotfix@jar",
           "name": "Timeless & Classics Guns: Zero",
           "type": "ForgeMod",
           "artifact": {
-            "size": 52403127,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/tacz-1.20.1-1.1.7-release.jar",
-            "MD5": "27696ec987eefbec8e7ba6596e418b35"
+            "size": 52425650,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/tacz-1.20.1-1.1.7-hotfix.jar",
+            "MD5": "e91391b09e25ec5994c28593117f5908"
           }
         },
         {
@@ -2043,23 +2033,13 @@
           }
         },
         {
-          "id": "com.drmangotea:tfmg:1.0.2e@jar",
+          "id": "com.drmangotea:tfmg:1.0.2f@jar",
           "name": "Create: The Factory Must Grow",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5343817,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/tfmg-1.0.2e.jar",
-            "MD5": "c654bf4aa72c72c1b7f035803f81a80f"
-          }
-        },
-        {
-          "id": "org.valkyrienskies.tournament:vs_tournament:1.1.0_beta-5.3+af35b3821f@jar",
-          "name": "VS Tournament Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 726709,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/tournament-1.20.1-forge-1.1.0_beta-5.3+af35b3821f.jar",
-            "MD5": "2c9e437b5026c263b05183e57b68cf08"
+            "size": 5343749,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/tfmg-1.0.2f.jar",
+            "MD5": "fd033fc4132f7cd26a0f30e6181d8fde"
           }
         },
         {
@@ -2073,13 +2053,13 @@
           }
         },
         {
-          "id": "edn.stratodonut:trackwork:1.1.2c6@jar",
+          "id": "edn.stratodonut:trackwork:1.2.3@jar",
           "name": "Trackwork Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 488891,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/trackwork-1.20.1-1.1.2c6.jar",
-            "MD5": "8f57d38189007eeda44d95c4cdcc0d49"
+            "size": 576332,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/trackwork-1.20.1-1.2.3.jar",
+            "MD5": "1f21faa7ce2c21990d5e4090e702f9b5"
           }
         },
         {
@@ -2113,23 +2093,23 @@
           }
         },
         {
-          "id": "org.valkyrienskies.mod:valkyrienskies:2.3.0-beta.12@jar",
-          "name": "Valkyrien Skies 2",
+          "id": "org.valkyrienskies.mod:valkyrienskies:120-2.4.6@jar",
+          "name": "Valkyrienskies",
           "type": "ForgeMod",
           "artifact": {
-            "size": 14008550,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/valkyrienskies-120-2.3.0-beta.12.jar",
-            "MD5": "348ecf423577104a8305f3be45d9849f"
+            "size": 24053616,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/valkyrienskies-120-2.4.6.jar",
+            "MD5": "d4905fbb4ee72093ec5c5d4fdfb232aa"
           }
         },
         {
-          "id": "net.spaceeye.vmod:the_vmod:1.6.0@jar",
-          "name": "VMod",
+          "id": "crazywoddman.warium_additions:warium_additions:0.2.2@jar",
+          "name": "Warium Additions",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6849797,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/VMod-Forge-1.20.1-1.6.0.jar",
-            "MD5": "b577f2026dc3e5cda17ef372133adaf7"
+            "size": 1144433,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/warium_additions-0.2.2-all.jar",
+            "MD5": "ecf55721cd9e4da618778b6a660721c0"
           }
         },
         {
@@ -2137,29 +2117,39 @@
           "name": "Warium Extras",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1783798,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/warium_extras-1.1.0-forge-1.20.1.jar",
-            "MD5": "70441a836c71bc28517e37499ef7eb0f"
+            "size": 1783630,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/warium_extras-1.1.0f-forge-1.20.1.jar",
+            "MD5": "47195a469ed6b74805fcda5cc13c68ba"
           }
         },
         {
-          "id": "net.mcreator.crustychunks:crusty_chunks:1.2.0@jar",
+          "id": "com.example.wariumintergrations:warium_integrations:1.0.1@jar",
+          "name": "Warium Integrations",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 84844,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/warium_integrations-1.0.1.jar",
+            "MD5": "e228e4fbe077b677f540530ec5cddf0d"
+          }
+        },
+        {
+          "id": "net.mcreator.crustychunks:crusty_chunks:1.2.6@jar",
           "name": "Warium",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12273556,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/Warium%201.2.0.jar",
-            "MD5": "50c62301be46ab9765133135ef45347b"
+            "size": 12602852,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/Warium%201.2.6.jar",
+            "MD5": "315beb678dbf40e710dd5978aa52d658"
           }
         },
         {
-          "id": "net.mcreator.valkyrienwarium:valkyrien_warium:0.2.0@jar",
+          "id": "net.mcreator.valkyrienwarium:valkyrien_warium:0.3.1@jar",
           "name": "Warium_VS",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5114592,
-            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/WariumVS%200.2.0.jar",
-            "MD5": "619a88183abe8177b0dc6338080735a0"
+            "size": 5244575,
+            "url": "https://dd3445.github.io/FTP2/servers/outpost-1.20.1/forgemods/required/WariumVS%200.3.1.jar",
+            "MD5": "caf53e26cb492662e93706a2ff0b8d88"
           }
         },
         {
